@@ -1,0 +1,11 @@
+# General Docker Commands
+alias up="docker-compose up"
+alias build="docker-compose build --parallel"
+alias stop="docker-compose stop"
+alias restart="docker-compose restart django"
+alias restartqueue="docker-compose restart cm_tasks"
+alias inside="docker exec -it document_layout_segmentation_service /bin/bash"
+alias stopall="docker stop $(docker ps -aq)"
+
+# Test Commands
+alias runpytest="docker exec -it document_layout_segmentation_service pytest tests/"

@@ -1,0 +1,52 @@
+trigger:
+  - dev
+  - main
+  - master
+
+pool:
+    vmImage: 'ubuntu-latest'
+strategy:
+  matrix:
+    Python39:
+      python.version: '3.9'
+steps:
+  - task: UsePythonVersion@0
+    inputs:
+      versionSpec: '$(python.version)'
+    displayName: 'Use Python $(python.version)'
+  - script: |
+      python -m pip install -U pip
+      pip install poetry
+      poetry install
+    displayName: "Install Poetry and dependencies"
+  - bash: |
+      poetry run pytest tests -s -vv --durations=0 \
+              --junitxml=test_report.xml \
+              --cov-report=term \
+              --cov-report xml document_layout_segmentation_service \
+              --cov=document_layout_segmentation_service
+    displayName: 'Run Tests'
+
+  - script: |
+      poetry run pflake8 . --config pyproject.toml
+      poetry run black .
+    displayName: 'Check code format'
+
+  - script: |
+      poetry run mypy --config-file=pyproject.toml .
+    displayName: 'Static Type Checking'
+
+  - script: |
+      poetry run coverage xml
+    displayName: 'Generate coverage report'
+
+  - task: PublishTestResults@2
+    condition: succeededOrFailed()
+    inputs:
+      testResultsFiles: '**/test_report*.xml'
+      testRunTitle: 'Publish test results for document_layout_segmentation_service '
+
+  - task: PublishCodeCoverageResults@1
+    inputs:
+      codeCoverageTool: Cobertura
+      summaryFileLocation: 'coverage.xml'

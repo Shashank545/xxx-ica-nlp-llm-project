@@ -1,0 +1,40 @@
+version: '3.7'
+
+services:
+  document-layout-segmentation-api:
+    platform: "linux/amd64"
+    build: &api_build_spec
+      context: ..
+      dockerfile: microservices/Dockerfile
+      args:
+        PIP_EXTRA_INDEX_URL: >-
+          https://user:${MP_AZURE_DEVOPS_PERSONAL_ACCESS_TOKEN}@pkgs.dev.azure.com/kpmgjp-prod-001/kpmgjp-microservices-platform/_packaging/microservices-platform-pkgs/pypi/simple/
+    volumes: &volume_spec
+      - ${PWD}/microservice.yaml:/opt/app/microservice.yaml
+      - ${PWD}/document_layout_segmentation_service:/opt/app/document_layout_segmentation_service
+      - jobfs_volume:/tmp/jobfs
+      - local_queue_volume:/tmp/asyncjobqueue
+    ports:
+      - "8000:8000" # uvicorn
+      - "5678:5678"  # vscode debugger
+    environment: &env_spec
+      - AUTO_RELOAD=${MP_AUTO_RELOAD}
+      - MP_REMOTE_DEBUGGER=${MP_REMOTE_DEBUGGER}
+    extra_hosts: &extra_hosts_spec
+      - "host.docker.internal:host-gateway"
+
+  document-layout-segmentation-worker:
+    platform: "linux/amd64"
+    build: *api_build_spec
+    command:
+      - start_worker
+    volumes: *volume_spec
+    ports:
+      - "5679:5679"  # vscode debugger
+    environment: *env_spec
+    extra_hosts: *extra_hosts_spec
+
+volumes:
+  jobfs_volume:
+  local_queue_volume:
+

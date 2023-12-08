@@ -1,0 +1,3714 @@
+[
+    {
+        "bbox": [
+            338,
+            12,
+            392,
+            22
+        ],
+        "density": 0.00196078431372549,
+        "gcn_near_char_density": 0.004901960784313725,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "\"FORM",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            396,
+            12,
+            422,
+            22
+        ],
+        "density": 0.00404040404040404,
+        "gcn_near_char_density": 0.006060606060606061,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "NO.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            427,
+            12,
+            454,
+            22
+        ],
+        "density": 0.00196078431372549,
+        "gcn_near_char_density": 0.0058823529411764705,
+        "gcn_near_char_number": 3,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15G",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            251,
+            31,
+            277,
+            45
+        ],
+        "density": 0.002886002886002886,
+        "gcn_near_char_density": 0.005772005772005772,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "[See",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            282,
+            33,
+            325,
+            42
+        ],
+        "density": 0.0013227513227513227,
+        "gcn_near_char_density": 0.009259259259259259,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "section",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            330,
+            31,
+            383,
+            45
+        ],
+        "density": 0.0035536602700781805,
+        "gcn_near_char_density": 0.005685856432125089,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "197A(1),",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            389,
+            31,
+            450,
+            45
+        ],
+        "density": 0.0024737167594310453,
+        "gcn_near_char_density": 0.004947433518862091,
+        "gcn_near_char_number": 8,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "197A(1A)",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            454,
+            23,
+            475,
+            52
+        ],
+        "density": 0.0008417508417508417,
+        "gcn_near_char_density": 0.0025252525252525255,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "and",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            479,
+            23,
+            504,
+            52
+        ],
+        "density": 0.0007102272727272727,
+        "gcn_near_char_density": 0.002840909090909091,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "rule",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            508,
+            31,
+            537,
+            45
+        ],
+        "density": 0.0026455026455026454,
+        "gcn_near_char_density": 0.005291005291005291,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "29C]",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            38,
+            76,
+            113,
+            86
+        ],
+        "density": 0.0007092198581560284,
+        "gcn_near_char_density": 0.007801418439716312,
+        "gcn_near_char_number": 11,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Declaration",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            118,
+            76,
+            156,
+            86
+        ],
+        "density": 0.001388888888888889,
+        "gcn_near_char_density": 0.006944444444444444,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "under",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            161,
+            76,
+            205,
+            86
+        ],
+        "density": 0.0011904761904761906,
+        "gcn_near_char_density": 0.008333333333333333,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "section",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            210,
+            76,
+            243,
+            86
+        ],
+        "density": 0.0015873015873015873,
+        "gcn_near_char_density": 0.006349206349206349,
+        "gcn_near_char_number": 4,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "197A",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            247,
+            76,
+            265,
+            89
+        ],
+        "density": 0.006521739130434782,
+        "gcn_near_char_density": 0.006521739130434782,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(1)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            269,
+            76,
+            293,
+            86
+        ],
+        "density": 0.0022222222222222222,
+        "gcn_near_char_density": 0.006666666666666667,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "and",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            297,
+            79,
+            309,
+            86
+        ],
+        "density": 0.006060606060606061,
+        "gcn_near_char_density": 0.04242424242424243,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "section",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            346,
+            76,
+            408,
+            89
+        ],
+        "density": 0.002564102564102564,
+        "gcn_near_char_density": 0.004487179487179487,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "197(1A)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            413,
+            76,
+            425,
+            86
+        ],
+        "density": 0.0044444444444444444,
+        "gcn_near_char_density": 0.008888888888888889,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "to",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            429,
+            76,
+            444,
+            86
+        ],
+        "density": 0.0035087719298245615,
+        "gcn_near_char_density": 0.007017543859649123,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "be",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            449,
+            76,
+            483,
+            86
+        ],
+        "density": 0.0015503875968992248,
+        "gcn_near_char_density": 0.006201550387596899,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "made",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            487,
+            76,
+            503,
+            89
+        ],
+        "density": 0.0025,
+        "gcn_near_char_density": 0.005,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "by",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            508,
+            79,
+            523,
+            86
+        ],
+        "density": 0.004784688995215311,
+        "gcn_near_char_density": 0.009569377990430622,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "an",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            527,
+            76,
+            593,
+            86
+        ],
+        "density": 0.0008032128514056225,
+        "gcn_near_char_density": 0.008032128514056224,
+        "gcn_near_char_number": 10,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "individual",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            598,
+            79,
+            611,
+            86
+        ],
+        "density": 0.005681818181818182,
+        "gcn_near_char_density": 0.011363636363636364,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "or",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            616,
+            79,
+            623,
+            86
+        ],
+        "density": 0.010101010101010102,
+        "gcn_near_char_density": 0.010101010101010102,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "a",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            627,
+            79,
+            671,
+            89
+        ],
+        "density": 0.0011160714285714285,
+        "gcn_near_char_density": 0.006696428571428571,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "person",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            675,
+            76,
+            701,
+            89
+        ],
+        "density": 0.0030303030303030303,
+        "gcn_near_char_density": 0.006060606060606061,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(not",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            705,
+            76,
+            741,
+            89
+        ],
+        "density": 0.0011111111111111111,
+        "gcn_near_char_density": 0.005555555555555556,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "being",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            745,
+            79,
+            751,
+            86
+        ],
+        "density": 0.011363636363636364,
+        "gcn_near_char_density": 0.011363636363636364,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "a",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            172,
+            96,
+            231,
+            106
+        ],
+        "density": 0.0008888888888888889,
+        "gcn_near_char_density": 0.006222222222222222,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "company",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            235,
+            96,
+            249,
+            103
+        ],
+        "density": 0.0058823529411764705,
+        "gcn_near_char_density": 0.011764705882352941,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "or",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            253,
+            93,
+            286,
+            106
+        ],
+        "density": 0.002380952380952381,
+        "gcn_near_char_density": 0.005952380952380952,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "firm)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            291,
+            93,
+            346,
+            106
+        ],
+        "density": 0.0007142857142857143,
+        "gcn_near_char_density": 0.005714285714285714,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "claiming",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            351,
+            93,
+            396,
+            103
+        ],
+        "density": 0.0011695906432748538,
+        "gcn_near_char_density": 0.008187134502923977,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "certain",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            400,
+            93,
+            452,
+            103
+        ],
+        "density": 0.00101010101010101,
+        "gcn_near_char_density": 0.007070707070707071,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "incomes",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            456,
+            93,
+            506,
+            103
+        ],
+        "density": 0.0010582010582010583,
+        "gcn_near_char_density": 0.007407407407407408,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "without",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            511,
+            93,
+            574,
+            103
+        ],
+        "density": 0.0008438818565400844,
+        "gcn_near_char_density": 0.007594936708860759,
+        "gcn_near_char_number": 9,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "deduction",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            579,
+            93,
+            592,
+            103
+        ],
+        "density": 0.00392156862745098,
+        "gcn_near_char_density": 0.00784313725490196,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            596,
+            93,
+            618,
+            103
+        ],
+        "density": 0.004761904761904762,
+        "gcn_near_char_density": 0.009523809523809525,
+        "gcn_near_char_number": 4,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "tax.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            370,
+            114,
+            421,
+            124
+        ],
+        "density": 0.0010256410256410256,
+        "gcn_near_char_density": 0.005128205128205128,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "PARTI",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            36,
+            135,
+            40,
+            145
+        ],
+        "density": 0.025,
+        "gcn_near_char_density": 0.025,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "1.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            49,
+            135,
+            86,
+            145
+        ],
+        "density": 0.0013297872340425532,
+        "gcn_near_char_density": 0.005319148936170213,
+        "gcn_near_char_number": 4,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Name",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            90,
+            134,
+            103,
+            145
+        ],
+        "density": 0.0034602076124567475,
+        "gcn_near_char_density": 0.006920415224913495,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            106,
+            134,
+            161,
+            145
+        ],
+        "density": 0.0008525149190110827,
+        "gcn_near_char_density": 0.0068201193520886615,
+        "gcn_near_char_number": 8,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Assessee",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            166,
+            134,
+            234,
+            148
+        ],
+        "density": 0.0016611295681063123,
+        "gcn_near_char_density": 0.006090808416389812,
+        "gcn_near_char_number": 11,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(Declarant)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            241,
+            143,
+            292,
+            153
+        ],
+        "density": 0.0009615384615384616,
+        "gcn_near_char_density": 0.004807692307692308,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ananp",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            298,
+            143,
+            348,
+            153
+        ],
+        "density": 0.000992063492063492,
+        "gcn_near_char_density": 0.00496031746031746,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "KUMAR",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            434,
+            135,
+            441,
+            145
+        ],
+        "density": 0.013888888888888888,
+        "gcn_near_char_density": 0.013888888888888888,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "2.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            449,
+            135,
+            480,
+            145
+        ],
+        "density": 0.0016025641025641025,
+        "gcn_near_char_density": 0.004807692307692308,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "PAN",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            479,
+            128,
+            491,
+            154
+        ],
+        "density": 0.0017094017094017094,
+        "gcn_near_char_density": 0.003418803418803419,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            491,
+            134,
+            518,
+            145
+        ],
+        "density": 0.0017301038062283738,
+        "gcn_near_char_density": 0.005190311418685121,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "the",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            522,
+            132,
+            582,
+            145
+        ],
+        "density": 0.001973684210526316,
+        "gcn_near_char_density": 0.006578947368421052,
+        "gcn_near_char_number": 10,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Assessee’_",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            593,
+            140,
+            696,
+            150
+        ],
+        "density": 0.0005128205128205128,
+        "gcn_near_char_density": 0.0056410256410256415,
+        "gcn_near_char_number": 11,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "apQp073328M",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            35,
+            171,
+            41,
+            181
+        ],
+        "density": 0.017857142857142856,
+        "gcn_near_char_density": 0.017857142857142856,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "3.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            51,
+            161,
+            91,
+            191
+        ],
+        "density": 0.0008525149190110827,
+        "gcn_near_char_density": 0.0029838022165387893,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Status\"",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            96,
+            173,
+            161,
+            184
+        ],
+        "density": 0.0007173601147776184,
+        "gcn_near_char_density": 0.007173601147776184,
+        "gcn_near_char_number": 10,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "individual",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            254,
+            171,
+            261,
+            181
+        ],
+        "density": 0.0078125,
+        "gcn_near_char_density": 0.0078125,
+        "gcn_near_char_number": 1,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "4",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            270,
+            161,
+            323,
+            191
+        ],
+        "density": 0.0003244646333549643,
+        "gcn_near_char_density": 0.0025957170668397143,
+        "gcn_near_char_number": 8,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Previous",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            327,
+            161,
+            448,
+            191
+        ],
+        "density": 0.0007104290991759022,
+        "gcn_near_char_density": 0.0024154589371980675,
+        "gcn_near_char_number": 17,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "year(P.¥)°2016-17",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            543,
+            171,
+            549,
+            181
+        ],
+        "density": 0.015625,
+        "gcn_near_char_density": 0.015625,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "5.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            558,
+            170,
+            626,
+            181
+        ],
+        "density": 0.0006839945280437756,
+        "gcn_near_char_density": 0.007523939808481532,
+        "gcn_near_char_number": 11,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Residential",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            631,
+            161,
+            674,
+            191
+        ],
+        "density": 0.0007905138339920949,
+        "gcn_near_char_density": 0.002766798418972332,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Status*",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            676,
+            169,
+            732,
+            180
+        ],
+        "density": 0.0008285004142502071,
+        "gcn_near_char_density": 0.006628003314001657,
+        "gcn_near_char_number": 8,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Resident",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            254,
+            191,
+            277,
+            205
+        ],
+        "density": 0.003284072249589491,
+        "gcn_near_char_density": 0.006568144499178982,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(for",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            281,
+            191,
+            318,
+            202
+        ],
+        "density": 0.0012515644555694619,
+        "gcn_near_char_density": 0.006257822277847309,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            322,
+            191,
+            390,
+            202
+        ],
+        "density": 0.0006839945280437756,
+        "gcn_near_char_density": 0.007523939808481532,
+        "gcn_near_char_number": 11,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "declaration",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            393,
+            195,
+            403,
+            202
+        ],
+        "density": 0.006993006993006993,
+        "gcn_near_char_density": 0.013986013986013986,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "is",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            407,
+            191,
+            441,
+            205
+        ],
+        "density": 0.0011074197120708748,
+        "gcn_near_char_density": 0.005537098560354375,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "being",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            445,
+            191,
+            483,
+            205
+        ],
+        "density": 0.001984126984126984,
+        "gcn_near_char_density": 0.00496031746031746,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "made)",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            35,
+            213,
+            42,
+            223
+        ],
+        "density": 0.007407407407407408,
+        "gcn_near_char_density": 0.007407407407407408,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "6",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            49,
+            203,
+            76,
+            233
+        ],
+        "density": 0.0006211180124223603,
+        "gcn_near_char_density": 0.002484472049689441,
+        "gcn_near_char_number": 4,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Flat",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            81,
+            203,
+            151,
+            233
+        ],
+        "density": 0.00024703557312252963,
+        "gcn_near_char_density": 0.0024703557312252965,
+        "gcn_near_char_number": 10,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Door/Block",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            153,
+            213,
+            172,
+            223
+        ],
+        "density": 0.005555555555555556,
+        "gcn_near_char_density": 0.008333333333333333,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            434,
+            213,
+            441,
+            223
+        ],
+        "density": 0.014814814814814815,
+        "gcn_near_char_density": 0.014814814814814815,
+        "gcn_near_char_number": 2,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "8,",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            449,
+            212,
+            556,
+            223
+        ],
+        "density": 0.00043572984749455336,
+        "gcn_near_char_density": 0.006971677559912854,
+        "gcn_near_char_number": 16,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Road/Street/Lane",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            603,
+            213,
+            609,
+            223
+        ],
+        "density": 0.01904761904761905,
+        "gcn_near_char_density": 0.01904761904761905,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "9.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            617,
+            212,
+            702,
+            226
+        ],
+        "density": 0.0004248088360237893,
+        "gcn_near_char_density": 0.0055225148683092605,
+        "gcn_near_char_number": 13,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ArealLocality",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            51,
+            228,
+            74,
+            239
+        ],
+        "density": 0.002028397565922921,
+        "gcn_near_char_density": 0.008113590263691683,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Flat",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            80,
+            229,
+            102,
+            239
+        ],
+        "density": 0.004629629629629629,
+        "gcn_near_char_density": 0.006944444444444444,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            108,
+            229,
+            130,
+            239
+        ],
+        "density": 0.002232142857142857,
+        "gcn_near_char_density": 0.006696428571428571,
+        "gcn_near_char_number": 3,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "111",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            255,
+            233,
+            261,
+            240
+        ],
+        "density": 0.012987012987012988,
+        "gcn_near_char_density": 0.012987012987012988,
+        "gcn_near_char_number": 1,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "a",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            270,
+            220,
+            340,
+            249
+        ],
+        "density": 0.0002525252525252525,
+        "gcn_near_char_density": 0.0022727272727272726,
+        "gcn_near_char_number": 9,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Apartment",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            444,
+            229,
+            484,
+            239
+        ],
+        "density": 0.00125,
+        "gcn_near_char_density": 0.0075,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Street",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            490,
+            229,
+            524,
+            239
+        ],
+        "density": 0.0029069767441860465,
+        "gcn_near_char_density": 0.00436046511627907,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            517,
+            220,
+            527,
+            249
+        ],
+        "density": 0.0017094017094017094,
+        "gcn_near_char_density": 0.0017094017094017094,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "2",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            600,
+            233,
+            642,
+            244
+        ],
+        "density": 0.0011098779134295228,
+        "gcn_near_char_density": 0.006659267480577136,
+        "gcn_near_char_number": 6,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Shanti",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            648,
+            234,
+            688,
+            247
+        ],
+        "density": 0.001,
+        "gcn_near_char_density": 0.005,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Nagar",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            36,
+            257,
+            53,
+            267
+        ],
+        "density": 0.0030303030303030303,
+        "gcn_near_char_density": 0.006060606060606061,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "10",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            57,
+            256,
+            173,
+            279
+        ],
+        "density": 0.00019569471624266145,
+        "gcn_near_char_density": 0.0031311154598825833,
+        "gcn_near_char_number": 16,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "TomaiGityDistict",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            202,
+            257,
+            215,
+            267
+        ],
+        "density": 0.008333333333333333,
+        "gcn_near_char_density": 0.0125,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "[TT",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            225,
+            257,
+            258,
+            267
+        ],
+        "density": 0.0015873015873015873,
+        "gcn_near_char_density": 0.007936507936507936,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "State",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            265,
+            261,
+            335,
+            272
+        ],
+        "density": 0.0006684491978609625,
+        "gcn_near_char_density": 0.006016042780748663,
+        "gcn_near_char_number": 9,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "sharkhand",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            435,
+            257,
+            448,
+            267
+        ],
+        "density": 0.00784313725490196,
+        "gcn_near_char_density": 0.011764705882352941,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "12.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            457,
+            257,
+            536,
+            268
+        ],
+        "density": 0.000588235294117647,
+        "gcn_near_char_density": 0.0058823529411764705,
+        "gcn_near_char_number": 10,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "PINS340001",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            597,
+            256,
+            653,
+            280
+        ],
+        "density": 0.0003912363067292645,
+        "gcn_near_char_density": 0.000782472613458529,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "EB",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            668,
+            248,
+            714,
+            284
+        ],
+        "density": 0.00031347962382445143,
+        "gcn_near_char_density": 0.00219435736677116,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ait.com",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            36,
+            294,
+            53,
+            304
+        ],
+        "density": 0.006060606060606061,
+        "gcn_near_char_density": 0.00909090909090909,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "14.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            57,
+            293,
+            122,
+            307
+        ],
+        "density": 0.0005543237250554324,
+        "gcn_near_char_density": 0.004988913525498891,
+        "gcn_near_char_number": 9,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Telephone",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            125,
+            294,
+            144,
+            304
+        ],
+        "density": 0.005555555555555556,
+        "gcn_near_char_density": 0.008333333333333333,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            152,
+            293,
+            184,
+            307
+        ],
+        "density": 0.0022727272727272726,
+        "gcn_near_char_density": 0.005681818181818182,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(with",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            188,
+            294,
+            216,
+            304
+        ],
+        "density": 0.001851851851851852,
+        "gcn_near_char_density": 0.005555555555555556,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "STD",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            227,
+            284,
+            247,
+            314
+        ],
+        "density": 0.0016722408026755853,
+        "gcn_near_char_density": 0.0016722408026755853,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "_]",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            255,
+            294,
+            268,
+            304
+        ],
+        "density": 0.004166666666666667,
+        "gcn_near_char_density": 0.008333333333333333,
+        "gcn_near_char_number": 2,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            274,
+            293,
+            290,
+            307
+        ],
+        "density": 0.006818181818181818,
+        "gcn_near_char_density": 0.006818181818181818,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(a)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            294,
+            293,
+            347,
+            304
+        ],
+        "density": 0.000877963125548727,
+        "gcn_near_char_density": 0.006145741878841089,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Whether",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            350,
+            293,
+            402,
+            304
+        ],
+        "density": 0.00089126559714795,
+        "gcn_near_char_density": 0.0071301247771836,
+        "gcn_near_char_number": 8,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "assessed",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            406,
+            295,
+            417,
+            304
+        ],
+        "density": 0.00510204081632653,
+        "gcn_near_char_density": 0.01020408163265306,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "to",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            421,
+            295,
+            440,
+            304
+        ],
+        "density": 0.002976190476190476,
+        "gcn_near_char_density": 0.008928571428571428,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "tax",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            444,
+            293,
+            479,
+            304
+        ],
+        "density": 0.001336898395721925,
+        "gcn_near_char_density": 0.0066844919786096255,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "under",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            482,
+            293,
+            501,
+            304
+        ],
+        "density": 0.0024509803921568627,
+        "gcn_near_char_density": 0.007352941176470588,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "the",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            558,
+            294,
+            582,
+            304
+        ],
+        "density": 0.0022222222222222222,
+        "gcn_near_char_density": 0.006666666666666667,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Yes",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            642,
+            294,
+            661,
+            304
+        ],
+        "density": 0.002777777777777778,
+        "gcn_near_char_density": 0.005555555555555556,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            34,
+            313,
+            71,
+            327
+        ],
+        "density": 0.002026342451874367,
+        "gcn_near_char_density": 0.005065856129685917,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Code)",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            76,
+            313,
+            98,
+            324
+        ],
+        "density": 0.002178649237472767,
+        "gcn_near_char_density": 0.006535947712418301,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "and",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            101,
+            313,
+            145,
+            324
+        ],
+        "density": 0.0010504201680672268,
+        "gcn_near_char_density": 0.0063025210084033615,
+        "gcn_near_char_number": 6,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Mobile",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            149,
+            314,
+            168,
+            324
+        ],
+        "density": 0.005208333333333333,
+        "gcn_near_char_density": 0.0078125,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            292,
+            319,
+            362,
+            329
+        ],
+        "density": 0.0007575757575757576,
+        "gcn_near_char_density": 0.007575757575757576,
+        "gcn_near_char_number": 10,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Income-tax",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            365,
+            319,
+            391,
+            331
+        ],
+        "density": 0.003367003367003367,
+        "gcn_near_char_density": 0.006734006734006734,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Act,",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            397,
+            317,
+            431,
+            329
+        ],
+        "density": 0.0012919896640826874,
+        "gcn_near_char_density": 0.006459948320413436,
+        "gcn_near_char_number": 5,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "19615",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            637,
+            315,
+            673,
+            339
+        ],
+        "density": 0.0006006006006006006,
+        "gcn_near_char_density": 0.0006006006006006006,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "a",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            39,
+            335,
+            118,
+            345
+        ],
+        "density": 0.0006666666666666666,
+        "gcn_near_char_density": 0.006666666666666667,
+        "gcn_near_char_number": 10,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "8757875711",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            274,
+            342,
+            291,
+            356
+        ],
+        "density": 0.006493506493506494,
+        "gcn_near_char_density": 0.006493506493506494,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "(b)",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            295,
+            342,
+            332,
+            356
+        ],
+        "density": 0.0019342359767891683,
+        "gcn_near_char_density": 0.005802707930367505,
+        "gcn_near_char_number": 6,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Ifyes,",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            337,
+            342,
+            369,
+            353
+        ],
+        "density": 0.0014705882352941176,
+        "gcn_near_char_density": 0.008823529411764706,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "latest",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            373,
+            346,
+            422,
+            353
+        ],
+        "density": 0.001466275659824047,
+        "gcn_near_char_density": 0.010263929618768328,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "assessm",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            425,
+            344,
+            444,
+            353
+        ],
+        "density": 0.002976190476190476,
+        "gcn_near_char_density": 0.008928571428571428,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ent",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            448,
+            346,
+            475,
+            356
+        ],
+        "density": 0.001838235294117647,
+        "gcn_near_char_density": 0.007352941176470588,
+        "gcn_near_char_number": 4,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "year",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            479,
+            342,
+            496,
+            353
+        ],
+        "density": 0.00267379679144385,
+        "gcn_near_char_density": 0.008021390374331552,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "for",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            500,
+            342,
+            537,
+            353
+        ],
+        "density": 0.0012787723785166241,
+        "gcn_near_char_density": 0.00639386189258312,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            254,
+            362,
+            306,
+            373
+        ],
+        "density": 0.0018099547511312218,
+        "gcn_near_char_density": 0.008144796380090498,
+        "gcn_near_char_number": 9,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "assessed,",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            36,
+            384,
+            52,
+            394
+        ],
+        "density": 0.006666666666666667,
+        "gcn_near_char_density": 0.01,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "16,",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            59,
+            374,
+            117,
+            404
+        ],
+        "density": 0.0002977963073257892,
+        "gcn_near_char_density": 0.0026801667659321023,
+        "gcn_near_char_number": 9,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Estimated",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            124,
+            374,
+            165,
+            404
+        ],
+        "density": 0.0004180602006688963,
+        "gcn_near_char_density": 0.002508361204013378,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            172,
+            374,
+            190,
+            404
+        ],
+        "density": 0.000945179584120983,
+        "gcn_near_char_density": 0.002835538752362949,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "for",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            197,
+            374,
+            227,
+            404
+        ],
+        "density": 0.0005875440658049354,
+        "gcn_near_char_density": 0.002937720329024677,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            234,
+            374,
+            257,
+            404
+        ],
+        "density": 0.0007496251874062968,
+        "gcn_near_char_density": 0.0029985007496251873,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "this",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            262,
+            374,
+            325,
+            404
+        ],
+        "density": 0.000275178866263071,
+        "gcn_near_char_density": 0.003026967528893781,
+        "gcn_near_char_number": 11,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "declaration",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            332,
+            387,
+            341,
+            394
+        ],
+        "density": 0.007575757575757576,
+        "gcn_near_char_density": 0.015151515151515152,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "is",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            349,
+            374,
+            382,
+            404
+        ],
+        "density": 0.0005302226935312832,
+        "gcn_near_char_density": 0.0021208907741251328,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "made",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            435,
+            383,
+            448,
+            393
+        ],
+        "density": 0.00784313725490196,
+        "gcn_near_char_density": 0.011764705882352941,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "17.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            460,
+            382,
+            521,
+            393
+        ],
+        "density": 0.0007639419404125286,
+        "gcn_near_char_density": 0.006875477463712758,
+        "gcn_near_char_number": 9,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Estimated",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            528,
+            382,
+            556,
+            393
+        ],
+        "density": 0.0016806722689075631,
+        "gcn_near_char_density": 0.008403361344537815,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "total",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            563,
+            386,
+            608,
+            393
+        ],
+        "density": 0.0017543859649122807,
+        "gcn_near_char_density": 0.010526315789473684,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            615,
+            382,
+            630,
+            393
+        ],
+        "density": 0.0030959752321981426,
+        "gcn_near_char_density": 0.006191950464396285,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            636,
+            382,
+            654,
+            393
+        ],
+        "density": 0.00267379679144385,
+        "gcn_near_char_density": 0.008021390374331552,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "the",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            662,
+            383,
+            685,
+            393
+        ],
+        "density": 0.004597701149425287,
+        "gcn_near_char_density": 0.006896551724137931,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "PY.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            696,
+            386,
+            708,
+            393
+        ],
+        "density": 0.00625,
+        "gcn_near_char_density": 0.0125,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "in",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            715,
+            382,
+            753,
+            393
+        ],
+        "density": 0.0012254901960784314,
+        "gcn_near_char_density": 0.006127450980392157,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            434,
+            401,
+            478,
+            408
+        ],
+        "density": 0.0017857142857142857,
+        "gcn_near_char_density": 0.010714285714285714,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            482,
+            397,
+            612,
+            408
+        ],
+        "density": 0.0003586800573888092,
+        "gcn_near_char_density": 0.0032281205164992827,
+        "gcn_near_char_number": 9,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "mentioned",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            550,
+            388,
+            563,
+            418
+        ],
+        "density": 0.001358695652173913,
+        "gcn_near_char_density": 0.002717391304347826,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "in",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            567,
+            397,
+            610,
+            408
+        ],
+        "density": 0.0010695187165775401,
+        "gcn_near_char_density": 0.006417112299465241,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "column",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            617,
+            398,
+            631,
+            408
+        ],
+        "density": 0.00392156862745098,
+        "gcn_near_char_density": 0.00784313725490196,
+        "gcn_near_char_number": 2,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "16",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            635,
+            399,
+            645,
+            408
+        ],
+        "density": 0.005917159763313609,
+        "gcn_near_char_density": 0.011834319526627219,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "to",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            650,
+            397,
+            665,
+            408
+        ],
+        "density": 0.0030959752321981426,
+        "gcn_near_char_density": 0.006191950464396285,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "be",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            669,
+            396,
+            727,
+            408
+        ],
+        "density": 0.0007507507507507507,
+        "gcn_near_char_density": 0.006756756756756757,
+        "gcn_near_char_number": 9,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "included®",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            92,
+            409,
+            146,
+            423
+        ],
+        "density": 0.0007002801120448179,
+        "gcn_near_char_density": 0.0056022408963585435,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15,000/-",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            452,
+            415,
+            518,
+            429
+        ],
+        "density": 0.0005737234652897303,
+        "gcn_near_char_density": 0.006310958118187034,
+        "gcn_near_char_number": 11,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "41,15,000/-",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            36,
+            450,
+            53,
+            460
+        ],
+        "density": 0.006060606060606061,
+        "gcn_near_char_density": 0.00909090909090909,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "18.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            57,
+            449,
+            100,
+            460
+        ],
+        "density": 0.0010893246187363835,
+        "gcn_near_char_density": 0.007625272331154684,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Details",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            107,
+            449,
+            119,
+            460
+        ],
+        "density": 0.00392156862745098,
+        "gcn_near_char_density": 0.00784313725490196,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            127,
+            440,
+            152,
+            470
+        ],
+        "density": 0.0006793478260869565,
+        "gcn_near_char_density": 0.002717391304347826,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Form",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            157,
+            450,
+            176,
+            460
+        ],
+        "density": 0.005555555555555556,
+        "gcn_near_char_density": 0.008333333333333333,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            185,
+            450,
+            210,
+            460
+        ],
+        "density": 0.0020833333333333333,
+        "gcn_near_char_density": 0.00625,
+        "gcn_near_char_number": 3,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15G",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            212,
+            440,
+            245,
+            470
+        ],
+        "density": 0.0005302226935312832,
+        "gcn_near_char_density": 0.002651113467656416,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "other",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            249,
+            440,
+            272,
+            470
+        ],
+        "density": 0.0007496251874062968,
+        "gcn_near_char_density": 0.0029985007496251873,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "than",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            279,
+            440,
+            301,
+            470
+        ],
+        "density": 0.0007763975155279503,
+        "gcn_near_char_density": 0.003105590062111801,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "this",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            306,
+            449,
+            335,
+            460
+        ],
+        "density": 0.001589825119236884,
+        "gcn_near_char_density": 0.006359300476947536,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "form",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            343,
+            449,
+            370,
+            460
+        ],
+        "density": 0.0017301038062283738,
+        "gcn_near_char_density": 0.00865051903114187,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "filed",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            374,
+            449,
+            414,
+            463
+        ],
+        "density": 0.00089126559714795,
+        "gcn_near_char_density": 0.0053475935828877,
+        "gcn_near_char_number": 6,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "during",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            418,
+            449,
+            436,
+            460
+        ],
+        "density": 0.0025575447570332483,
+        "gcn_near_char_density": 0.0076726342710997444,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "the",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            440,
+            453,
+            492,
+            463
+        ],
+        "density": 0.0009615384615384616,
+        "gcn_near_char_density": 0.007692307692307693,
+        "gcn_near_char_number": 8,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "previous",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            496,
+            453,
+            526,
+            463
+        ],
+        "density": 0.0033783783783783786,
+        "gcn_near_char_density": 0.008445945945945946,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "year,",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            534,
+            440,
+            542,
+            470
+        ],
+        "density": 0.002173913043478261,
+        "gcn_near_char_density": 0.004347826086956522,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "if",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            544,
+            448,
+            571,
+            463
+        ],
+        "density": 0.0025575447570332483,
+        "gcn_near_char_density": 0.005115089514066497,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "any”",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            97,
+            473,
+            129,
+            484
+        ],
+        "density": 0.0014347202295552368,
+        "gcn_near_char_density": 0.007173601147776184,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Total",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            133,
+            474,
+            155,
+            484
+        ],
+        "density": 0.004629629629629629,
+        "gcn_near_char_density": 0.006944444444444444,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            163,
+            473,
+            174,
+            484
+        ],
+        "density": 0.004524886877828055,
+        "gcn_near_char_density": 0.00904977375565611,
+        "gcn_near_char_number": 2,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            180,
+            464,
+            208,
+            494
+        ],
+        "density": 0.0006211180124223603,
+        "gcn_near_char_density": 0.002484472049689441,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Form",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            212,
+            474,
+            231,
+            484
+        ],
+        "density": 0.005208333333333333,
+        "gcn_near_char_density": 0.0078125,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            240,
+            474,
+            265,
+            484
+        ],
+        "density": 0.001953125,
+        "gcn_near_char_density": 0.005859375,
+        "gcn_near_char_number": 3,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15G",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            269,
+            473,
+            297,
+            484
+        ],
+        "density": 0.0016806722689075631,
+        "gcn_near_char_density": 0.008403361344537815,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "filed",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            381,
+            474,
+            445,
+            487
+        ],
+        "density": 0.0012345679012345679,
+        "gcn_near_char_density": 0.006172839506172839,
+        "gcn_near_char_number": 10,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "‘Aggregate",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            449,
+            475,
+            495,
+            484
+        ],
+        "density": 0.0012315270935960591,
+        "gcn_near_char_density": 0.007389162561576354,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "amount",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            499,
+            473,
+            512,
+            484
+        ],
+        "density": 0.0034602076124567475,
+        "gcn_near_char_density": 0.006920415224913495,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            515,
+            473,
+            560,
+            484
+        ],
+        "density": 0.0010504201680672268,
+        "gcn_near_char_density": 0.0063025210084033615,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            564,
+            473,
+            582,
+            484
+        ],
+        "density": 0.00267379679144385,
+        "gcn_near_char_density": 0.008021390374331552,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "for",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            585,
+            473,
+            623,
+            484
+        ],
+        "density": 0.0012254901960784314,
+        "gcn_near_char_density": 0.006127450980392157,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            626,
+            474,
+            712,
+            488
+        ],
+        "density": 0.0004170141784820684,
+        "gcn_near_char_density": 0.0016680567139282735,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Form",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            664,
+            464,
+            685,
+            494
+        ],
+        "density": 0.0016722408026755853,
+        "gcn_near_char_density": 0.002508361204013378,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            687,
+            464,
+            707,
+            494
+        ],
+        "density": 0.0008695652173913044,
+        "gcn_near_char_density": 0.0017391304347826088,
+        "gcn_near_char_number": 2,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "1G",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            716,
+            473,
+            744,
+            484
+        ],
+        "density": 0.0016806722689075631,
+        "gcn_near_char_density": 0.008403361344537815,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "filed",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            102,
+            500,
+            109,
+            510
+        ],
+        "density": 0.006944444444444444,
+        "gcn_near_char_density": 0.006944444444444444,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "®",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            394,
+            507,
+            448,
+            521
+        ],
+        "density": 0.0007002801120448179,
+        "gcn_near_char_density": 0.0056022408963585435,
+        "gcn_near_char_number": 8,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15,000/-",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            36,
+            530,
+            53,
+            540
+        ],
+        "density": 0.006060606060606061,
+        "gcn_near_char_density": 0.00909090909090909,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "19.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            57,
+            529,
+            100,
+            540
+        ],
+        "density": 0.0011574074074074073,
+        "gcn_near_char_density": 0.008101851851851851,
+        "gcn_near_char_number": 7,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Details",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            106,
+            529,
+            119,
+            540
+        ],
+        "density": 0.00390625,
+        "gcn_near_char_density": 0.0078125,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            121,
+            529,
+            165,
+            540
+        ],
+        "density": 0.0011160714285714285,
+        "gcn_near_char_density": 0.006696428571428571,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            169,
+            521,
+            189,
+            549
+        ],
+        "density": 0.0009302325581395349,
+        "gcn_near_char_density": 0.0027906976744186047,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "for",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            195,
+            521,
+            226,
+            549
+        ],
+        "density": 0.0005963029218843172,
+        "gcn_near_char_density": 0.0029815146094215863,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            232,
+            529,
+            251,
+            540
+        ],
+        "density": 0.0026041666666666665,
+        "gcn_near_char_density": 0.0078125,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "the",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            255,
+            529,
+            322,
+            540
+        ],
+        "density": 0.0007352941176470588,
+        "gcn_near_char_density": 0.008088235294117648,
+        "gcn_near_char_number": 11,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "declaration",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            326,
+            533,
+            336,
+            540
+        ],
+        "density": 0.008333333333333333,
+        "gcn_near_char_density": 0.016666666666666666,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "is",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            341,
+            529,
+            368,
+            540
+        ],
+        "density": 0.001838235294117647,
+        "gcn_near_char_density": 0.009191176470588236,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "filed",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            35,
+            550,
+            47,
+            561
+        ],
+        "density": 0.00392156862745098,
+        "gcn_near_char_density": 0.01568627450980392,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "SL_|",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            77,
+            550,
+            159,
+            561
+        ],
+        "density": 0.0005656108597285068,
+        "gcn_near_char_density": 0.007918552036199095,
+        "gcn_near_char_number": 14,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Identification",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            163,
+            550,
+            210,
+            561
+        ],
+        "density": 0.0009970089730807576,
+        "gcn_near_char_density": 0.005982053838484547,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "number",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            215,
+            550,
+            227,
+            561
+        ],
+        "density": 0.00392156862745098,
+        "gcn_near_char_density": 0.00784313725490196,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "of",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            229,
+            550,
+            279,
+            561
+        ],
+        "density": 0.0009337068160597573,
+        "gcn_near_char_density": 0.007469654528478058,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "relevant",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            290,
+            542,
+            307,
+            570
+        ],
+        "density": 0.0010822510822510823,
+        "gcn_near_char_density": 0.0021645021645021645,
+        "gcn_near_char_number": 2,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "_|",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            310,
+            551,
+            352,
+            561
+        ],
+        "density": 0.0011574074074074073,
+        "gcn_near_char_density": 0.006944444444444444,
+        "gcn_near_char_number": 6,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Nature",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            356,
+            550,
+            417,
+            561
+        ],
+        "density": 0.0007639419404125286,
+        "gcn_near_char_density": 0.006111535523300229,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ofincome",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            430,
+            542,
+            442,
+            570
+        ],
+        "density": 0.0015873015873015873,
+        "gcn_near_char_density": 0.0015873015873015873,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "|",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            449,
+            551,
+            494,
+            561
+        ],
+        "density": 0.0010964912280701754,
+        "gcn_near_char_density": 0.007675438596491228,
+        "gcn_near_char_number": 7,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Section",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            498,
+            550,
+            533,
+            561
+        ],
+        "density": 0.001336898395721925,
+        "gcn_near_char_density": 0.0066844919786096255,
+        "gcn_near_char_number": 5,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "under",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            538,
+            550,
+            575,
+            561
+        ],
+        "density": 0.0012787723785166241,
+        "gcn_near_char_density": 0.00639386189258312,
+        "gcn_near_char_number": 5,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "which",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            579,
+            552,
+            598,
+            561
+        ],
+        "density": 0.002857142857142857,
+        "gcn_near_char_density": 0.008571428571428572,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "tax",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            602,
+            554,
+            612,
+            561
+        ],
+        "density": 0.015151515151515152,
+        "gcn_near_char_density": 0.022727272727272728,
+        "gcn_near_char_number": 3,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "is]",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            625,
+            551,
+            675,
+            561
+        ],
+        "density": 0.000992063492063492,
+        "gcn_near_char_density": 0.005952380952380952,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Amount",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            679,
+            550,
+            741,
+            561
+        ],
+        "density": 0.0007541478129713424,
+        "gcn_near_char_density": 0.006033182503770739,
+        "gcn_near_char_number": 8,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ofincome",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            34,
+            571,
+            53,
+            581
+        ],
+        "density": 0.005333333333333333,
+        "gcn_near_char_density": 0.008,
+        "gcn_near_char_number": 3,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "No.",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            62,
+            562,
+            70,
+            590
+        ],
+        "density": 0.002325581395348837,
+        "gcn_near_char_density": 0.002325581395348837,
+        "gcn_near_char_number": 1,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "|",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            77,
+            570,
+            199,
+            583
+        ],
+        "density": 0.0006493506493506494,
+        "gcn_near_char_density": 0.006168831168831169,
+        "gcn_near_char_number": 19,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "investment/account,",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            203,
+            569,
+            230,
+            581
+        ],
+        "density": 0.0032679738562091504,
+        "gcn_near_char_density": 0.006535947712418301,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "ete.",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            448,
+            571,
+            512,
+            582
+        ],
+        "density": 0.0007262164124909223,
+        "gcn_near_char_density": 0.007262164124909223,
+        "gcn_near_char_number": 10,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "deductible",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            28,
+            616,
+            170,
+            630
+        ],
+        "density": 0.0005320563979781857,
+        "gcn_near_char_density": 0.003458366586858207,
+        "gcn_near_char_number": 13,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "[422111222485",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            311,
+            617,
+            434,
+            628
+        ],
+        "density": 0.0003795066413662239,
+        "gcn_near_char_density": 0.0022770398481973433,
+        "gcn_near_char_number": 6,
+        "label_predictions": 3,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Income",
+        "text_predictions": "question"
+    },
+    {
+        "bbox": [
+            363,
+            609,
+            391,
+            637
+        ],
+        "density": 0.0006459948320413437,
+        "gcn_near_char_density": 0.002583979328165375,
+        "gcn_near_char_number": 4,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "from",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            400,
+            617,
+            453,
+            628
+        ],
+        "density": 0.000877963125548727,
+        "gcn_near_char_density": 0.007023705004389816,
+        "gcn_near_char_number": 8,
+        "label_predictions": 2,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "Interdst",
+        "text_predictions": "other"
+    },
+    {
+        "bbox": [
+            472,
+            616,
+            505,
+            626
+        ],
+        "density": 0.0015873015873015873,
+        "gcn_near_char_density": 0.006349206349206349,
+        "gcn_near_char_number": 4,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "194A",
+        "text_predictions": "answer"
+    },
+    {
+        "bbox": [
+            626,
+            615,
+            680,
+            629
+        ],
+        "density": 0.0006684491978609625,
+        "gcn_near_char_density": 0.0053475935828877,
+        "gcn_near_char_number": 8,
+        "label_predictions": 0,
+        "level1_parse_emb": [],
+        "level2_parse_emb": [],
+        "text": "15,000/-",
+        "text_predictions": "answer"
+    }
+]

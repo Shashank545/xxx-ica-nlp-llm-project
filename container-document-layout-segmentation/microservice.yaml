@@ -1,0 +1,10 @@
+specVersion: v1
+app:
+  name: document-layout-segmentation
+  fastApiEntry: document_layout_segmentation_service.segmentation
+
+common:
+  encryption:
+    enabled: false
+  virusscan:
+    enabled: false
